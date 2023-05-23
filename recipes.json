@@ -1,0 +1,303 @@
+[
+    {
+        "id": "1",
+        "chefs_id": "2",
+        "recipeName": "Vegan Lentil Soup",
+        "recipe_image": "https://live.staticflickr.com/65535/52865193344_c8c95eb408_o.jpg",
+        "ingredients": [
+            "1 cup red lentils, rinsed and drained",
+            "4 cups vegetable broth",
+            "1 onion, chopped",
+            "2 garlic cloves",
+            "1 tsp ground cumin",
+            "Salt and pepper "
+        ],
+        "cookingMethod": "In a large pot, heat the olive oil over medium heat. Add the onions and cook until softened. Add the garlic and cook for 1 minute. Add the cumin, smoked paprika, oregano, and cayenne pepper, and cook for another minute. Add the lentils and vegetable broth, and bring to a boil. Reduce heat and simmer for 20-25 minutes, until the lentils are tender. Season with salt and pepper to taste.",
+        "price": 300,
+        "rating": 4.5
+    },
+    {
+        "id": "2",
+        "chefs_id": "3",
+        "recipe_image": "https://live.staticflickr.com/65535/52864448662_a201e76636_o.jpg",
+        "recipeName": "Grilled Salmon with Mango Salsa",
+        "ingredients": [
+            "4 salmon fillets",
+            "1 tbsp olive oil",
+            "Salt and pepper to taste",
+            "2 ripe mangoes, diced",
+            "Juice of 1 lime"
+        ],
+        "cookingMethod": "Preheat the grill to medium-high heat. Brush the salmon fillets with olive oil, and season with salt and pepper. Grill for 5-6 minutes per side, until cooked through. In a bowl, combine the mangoes, red onion, red bell pepper, jalapeno pepper, cilantro, honey, and lime juice. Serve the salmon topped with the mango salsa.",
+        "price": 450,
+        "rating": 4.8
+    },
+    {
+        "id": "3",
+        "chefs_id": "4",
+        "recipe_image": "https://live.staticflickr.com/65535/52865193344_c8c95eb408_o.jpg",
+        "recipeName": " Special Salmon Curry",
+        "ingredients": [
+            "4 salmon fillets",
+            "1 tbsp olive oil",
+            "Salt and pepper to taste",
+            "2 ripe mangoes, diced",
+            "1/2 red onion, diced",
+            "1 red bell pepper, diced"
+        ],
+        "cookingMethod": "Preheat the grill to medium-high heat. Brush the salmon fillets with olive oil, and season with salt and pepper. Grill for 5-6 minutes per side, until cooked through. In a bowl, combine the mangoes, red onion, red bell pepper, jalapeno pepper, cilantro, honey, and lime juice. Serve the salmon topped with the mango salsa.",
+        "price": 360,
+        "rating": 4.8
+    },
+    {
+        "id": "4",
+        "chefs_id": "5",
+        "recipe_image": "https://live.staticflickr.com/65535/52865464178_38f83d9c8c_o.jpg",
+        "recipeName": "Classic Beef Chili",
+        "ingredients": [
+            "2 lbs ground beef",
+            "2 cans kidney beans, drained and rinsed",
+            "1 can diced tomatoes",
+            "1 onion, chopped",
+            "2 garlic cloves, minced",
+            "2 tbsp chili powder"
+        ],
+        "cookingMethod": "In a large pot, cook the ground beef over medium heat until browned. Add the onions and garlic, and cook until softened. Add the chili powder, cumin, paprika, oregano, and cayenne pepper, and cook for another minute. Add the diced tomatoes and kidney beans, and bring to a simmer. Cover and cook for 30-40 minutes, stirring occasionally. Season with salt and pepper to taste.",
+        "price": 380,
+        "rating": 4.2
+    },
+    {
+        "id": "5",
+        "chefs_id": "6",
+        "recipe_image": "https://live.staticflickr.com/65535/52865193839_8e12a318de_o.jpg",
+        "recipeName": "Italian Beef Chili",
+        "ingredients": [
+            "2 lbs ground beef",
+            "2 cans kidney beans",
+            "1 can diced tomatoes",
+            "1 onion",
+            "2 tbsp chili powder",
+            "Salt and pepper to taste"
+        ],
+        "cookingMethod": "In a large pot, cook the ground beef over medium heat until browned. Add the onions and garlic, and cook until softened. Add the chili powder, cumin, paprika, oregano, and cayenne pepper, and cook for another minute. Add the diced tomatoes and kidney beans, and bring to a simmer. Cover and cook for 30-40 minutes, stirring occasionally. Season with salt and pepper to taste.",
+        "price": 550,
+        "rating": 4.2
+    },
+    {
+        "id": "6",
+        "chefs_id": "1",
+        "recipe_image": "https://live.staticflickr.com/65535/52865193839_8e12a318de_o.jpg",
+        "recipeName": "Special Corn Soup",
+        "ingredients": [
+            "1 cup corn",
+            "4 cups vegetable broth",
+            "1 onion, chopped",
+            "2 tbsp olive oil",
+            "Salt and pepper"
+        ],
+        "cookingMethod": "In a large pot, heat the olive oil over medium heat. Add the onions and cook until softened. Add the garlic and cook for 1 minute. Add the cumin, smoked paprika, oregano, and cayenne pepper, and cook for another minute. Add the lentils and vegetable broth, and bring to a boil. Reduce heat and simmer for 20-25 minutes, until the lentils are tender. Season with salt and pepper to taste.",
+        "price": 280,
+        "rating": 4.5
+    },
+    {
+        "id": "7",
+        "chefs_id": "2",
+        "recipe_image": "https://live.staticflickr.com/65535/52865464453_269b194ae9_o.jpg",
+        "recipeName": "Chicken Lentil Soup",
+        "ingredients": [
+            "1 cup red lentils, rinsed and drained",
+            "chickens",
+            "1 onion, chopped",
+            "2 garlic cloves, minced",
+            "1 tsp ground cumin",
+            "1 tsp smoked paprika"
+        ],
+        "cookingMethod": "In a large pot, heat the olive oil over medium heat. Add the onions and cook until softened. Add the garlic and cook for 1 minute. Add the cumin, smoked paprika, oregano, and cayenne pepper, and cook for another minute. Add the lentils and vegetable broth, and bring to a boil. Reduce heat and simmer for 20-25 minutes, until the lentils are tender. Season with salt and pepper to taste.",
+        "price": 450,
+        "rating": 4.5
+    },
+    {
+        "id": "8",
+        "chefs_id": "3",
+        "recipe_image": "https://live.staticflickr.com/65535/52865031796_300e6513cd_o.jpg",
+        "recipeName": "Vegan Lentil Soup",
+        "ingredients": [
+            "1 cup red lentils, rinsed and drained",
+            "4 cups vegetable broth",
+            "1 onion, chopped",
+            "2 garlic cloves, minced",
+            "1 tsp ground cumin",
+            "1 tsp smoked paprika"
+        ],
+        "cookingMethod": "In a large pot, heat the olive oil over medium heat. Add the onions and cook until softened. Add the garlic and cook for 1 minute. Add the cumin, smoked paprika, oregano, and cayenne pepper, and cook for another minute. Add the lentils and vegetable broth, and bring to a boil. Reduce heat and simmer for 20-25 minutes, until the lentils are tender. Season with salt and pepper to taste.",
+        "price": 470,
+        "rating": 4.5
+    },
+    {
+        "id": "9",
+        "chefs_id": "4",
+        "recipe_image": "https://live.staticflickr.com/65535/52865464453_269b194ae9_o.jpg",
+        "recipeName": "Mexican Beef Chili",
+        "ingredients": [
+            "2 lbs ground beef",
+            "2 cans kidney beans, drained and rinsed",
+            "1 tsp ground cumin",
+            "1 tsp paprika",
+            "1/4 tsp cayenne pepper",
+            "Salt and pepper"
+        ],
+        "cookingMethod": "In a large pot, cook the ground beef over medium heat until browned. Add the onions and garlic, and cook until softened. Add the chili powder, cumin, paprika, oregano, and cayenne pepper, and cook for another minute. Add the diced tomatoes and kidney beans, and bring to a simmer. Cover and cook for 30-40 minutes, stirring occasionally. Season with salt and pepper to taste.",
+        "price": 390,
+        "rating": 4.2
+    },
+    {
+        "id": "10",
+        "chefs_id": "5",
+        "recipeName": "Special Chicken Chili",
+        "recipe_image": "https://live.staticflickr.com/65535/52865031796_300e6513cd_o.jpg",
+        "ingredients": [
+            "2 lbs ground chicken",
+            "2 cans kidney beans",
+            "1 can diced tomatoes",
+            "1 tsp paprika",
+            "1/4 tsp cayenne pepper",
+            "Salt and pepper"
+        ],
+        "cookingMethod": "In a large pot, cook the ground beef over medium heat until browned. Add the onions and garlic, and cook until softened. Add the chili powder, cumin, paprika, oregano, and cayenne pepper, and cook for another minute. Add the diced tomatoes and kidney beans, and bring to a simmer. Cover and cook for 30-40 minutes, stirring occasionally. Season with salt and pepper to taste.",
+        "price": 480,
+        "rating": 4.2
+    },
+    {
+        "id": "11",
+        "chefs_id": "6",
+        "recipeName": "Special Mutton Curry",
+        "recipe_image": "https://live.staticflickr.com/65535/52865464453_269b194ae9_o.jpg",
+        "ingredients": [
+            "2 lbs ground mutton",
+            "2 cans kidney beans",
+            "1 can diced tomatoes",
+            "1 tsp paprika",
+            "Salt and pepper"
+        ],
+        "cookingMethod": "In a large pot, cook the ground beef over medium heat until browned. Add the onions and garlic, and cook until softened. Add the chili powder, cumin, paprika, oregano, and cayenne pepper, and cook for another minute. Add the diced tomatoes and kidney beans, and bring to a simmer. Cover and cook for 30-40 minutes, stirring occasionally. Season with salt and pepper to taste.",
+        "price": 450,
+        "rating": 4.2
+    },
+    {
+        "id": "12",
+        "chefs_id": "1",
+        "recipeName": "Special Chicken Curry",
+        "recipe_image": "https://live.staticflickr.com/65535/52865031796_300e6513cd_o.jpg",
+        "ingredients": [
+            "2 lbs ground chicken",
+            "2 cans kidney beans, drained and rinsed",
+            "1 can diced tomatoes",
+            "2 garlic cloves",
+            "1/4 tsp cayenne pepper",
+            "Salt and pepper"
+        ],
+        "cookingMethod": "In a large pot, cook the ground beef over medium heat until browned. Add the onions and garlic, and cook until softened. Add the chili powder, cumin, paprika, oregano, and cayenne pepper, and cook for another minute. Add the diced tomatoes and kidney beans, and bring to a simmer. Cover and cook for 30-40 minutes, stirring occasionally. Season with salt and pepper to taste.",
+        "price": 390,
+        "rating": 4.2
+    },
+    {
+        "id": "13",
+        "chefs_id": "2",
+        "recipeName": "Luxury Beef Curry",
+        "recipe_image": "https://live.staticflickr.com/65535/52864448417_dee5d35ff0_o.jpg",
+        "ingredients": [
+            "2 lbs ground beef",
+            "2 cans kidney beans",
+            "1 can diced tomatoes",
+            "1 onion",
+            "1 tsp ground cumin",
+            "1 tsp paprika"
+        ],
+        "cookingMethod": "In a large pot, cook the ground beef over medium heat until browned. Add the onions and garlic, and cook until softened. Add the chili powder, cumin, paprika, oregano, and cayenne pepper, and cook for another minute. Add the diced tomatoes and kidney beans, and bring to a simmer. Cover and cook for 30-40 minutes, stirring occasionally. Season with salt and pepper to taste.",
+        "price": 440,
+        "rating": 4.2
+    },
+    {
+        "id": "14",
+        "chefs_id": "3",
+        "recipeName": "Spicy Beef Curry",
+        "recipe_image": "https://live.staticflickr.com/65535/52864448517_21d0fd7222_o.jpg",
+        "ingredients": [
+            "2 lbs ground beef",
+            "2 cans kidney beans, drained and rinsed",
+            "1 can diced tomatoes",
+            "1 onion, chopped",
+            "2 garlic cloves, minced",
+            "Salt and pepper"
+        ],
+        "cookingMethod": "In a large pot, cook the ground beef over medium heat until browned. Add the onions and garlic, and cook until softened. Add the chili powder, cumin, paprika, oregano, and cayenne pepper, and cook for another minute. Add the diced tomatoes and kidney beans, and bring to a simmer. Cover and cook for 30-40 minutes, stirring occasionally. Season with salt and pepper to taste.",
+        "price": 500,
+        "rating": 4.2
+    },
+    {
+        "id": "15",
+        "chefs_id": "4",
+        "recipeName": "Classic Mutton Chili",
+        "recipe_image": "https://live.staticflickr.com/65535/52864448417_dee5d35ff0_o.jpg",
+        "ingredients": [
+            "2 lbs ground mutton",
+            "2 cans kidney beans, drained and rinsed",
+            "1 can diced tomatoes",
+            "1/2 tsp dried oregano",
+            "1/4 tsp cayenne pepper"
+        ],
+        "cookingMethod": "In a large pot, cook the ground beef over medium heat until browned. Add the onions and garlic, and cook until softened. Add the chili powder, cumin, paprika, oregano, and cayenne pepper, and cook for another minute. Add the diced tomatoes and kidney beans, and bring to a simmer. Cover and cook for 30-40 minutes, stirring occasionally. Season with salt and pepper to taste.",
+        "price": 360,
+        "rating": 4.2
+    },
+    {
+        "id": "16",
+        "chefs_id": "5",
+        "recipeName": " Beef Spicy Curry",
+        "recipe_image": "https://live.staticflickr.com/65535/52864448517_21d0fd7222_o.jpg",
+        "ingredients": [
+            "2 lbs ground beef",
+            "2 cans kidney beans, drained and rinsed",
+            "1 can diced tomatoes",
+            "1 onion, chopped",
+            "2 garlic cloves, minced",
+            "Salt and pepper to taste"
+        ],
+        "cookingMethod": "In a large pot, cook the ground beef over medium heat until browned. Add the onions and garlic, and cook until softened. Add the chili powder, cumin, paprika, oregano, and cayenne pepper, and cook for another minute. Add the diced tomatoes and kidney beans, and bring to a simmer. Cover and cook for 30-40 minutes, stirring occasionally. Season with salt and pepper to taste.",
+        "price": 320,
+        "rating": 4.2
+    },
+    {
+        "id": "17",
+        "chefs_id": "6",
+        "recipeName": " Chicken Curry",
+        "recipe_image": "https://live.staticflickr.com/65535/52864448417_dee5d35ff0_o.jpg",
+        "ingredients": [
+            "2 lbs ground beef",
+            "2 cans kidney beans, drained and rinsed",
+            "1/2 tsp dried oregano",
+            "1/4 tsp cayenne pepper",
+            "Salt and pepper to taste"
+        ],
+        "cookingMethod": "In a large pot, cook the ground beef over medium heat until browned. Add the onions and garlic, and cook until softened. Add the chili powder, cumin, paprika, oregano, and cayenne pepper, and cook for another minute. Add the diced tomatoes and kidney beans, and bring to a simmer. Cover and cook for 30-40 minutes, stirring occasionally. Season with salt and pepper to taste.",
+        "price": 480,
+        "rating": 4.2
+    },
+    {
+        "id": "18",
+        "chefs_id": "1",
+        "recipeName": "Luxury Chicken Chili",
+        "recipe_image": "https://live.staticflickr.com/65535/52864448517_21d0fd7222_o.jpg",
+        "ingredients": [
+            "2 lbs ground beef",
+            "2 cans beans",
+            "1 can diced tomatoes",
+            "1 onion, chopped",
+            "2 garlic cloves, minced",
+            "2 tbsp chili powder"
+        ],
+        "cookingMethod": "In a large pot, cook the ground beef over medium heat until browned. Add the onions and garlic, and cook until softened. Add the chili powder, cumin, paprika, oregano, and cayenne pepper, and cook for another minute. Add the diced tomatoes and kidney beans, and bring to a simmer. Cover and cook for 30-40 minutes, stirring occasionally. Season with salt and pepper to taste.",
+        "price": 370,
+        "rating": 4.2
+    }
+]

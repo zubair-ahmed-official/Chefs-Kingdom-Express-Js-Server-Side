@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "chef_name": "Alexandra Torres",
+    "chef_picture": "https://live.staticflickr.com/65535/52864361770_25bb5c47fa_o.jpg",
+    "bio": "Alexandra is a classically trained French chef with a passion for creating elegant, sophisticated dishes. She has worked in some of the finest restaurants in Paris, London, and New York, and has won numerous awards for her culinary creations. Alexandra's cooking is characterized by its attention to detail, its use of high-quality ingredients, and its balance of flavors.",
+    "likes": 2900,
+    "recipes": 125,
+    "years_of_experience": 20
+  },
+  {
+    "id": "2",
+    "chef_name": "Juan Hernandez",
+    "chef_picture": "https://live.staticflickr.com/65535/52864361750_43a9aa436f_o.jpg",
+    "bio": "Juan is a Mexican chef who specializes in traditional cuisine from his homeland. He grew up in a family of cooks and has been honing his skills in the kitchen since he was a child. Juan is known for his flavorful, hearty dishes that showcase the rich culinary heritage of Mexico. He has published several cookbooks and is a popular TV personality in his home country.",
+    "likes": 1200,
+    "recipes": 75,
+    "years_of_experience": 12
+  },
+  {
+    "id": "3",
+    "chef_name": "Emily Chen",
+    "chef_picture": "https://live.staticflickr.com/65535/52863976441_ef4cfac7dd_o.jpg",
+    "bio": "Emily is a Chinese-American chef who combines the flavors and techniques of both cultures in her cooking. She grew up in San Francisco and was inspired by the city's vibrant food scene to pursue a career in the culinary arts. Emily's cooking is known for its bold flavors, creative use of ingredients, and beautiful presentation. She is also an advocate for sustainability and sources her ingredients locally whenever possible.",
+    "likes": 800,
+    "recipes": 50,
+    "years_of_experience": 8
+  },
+  {
+    "id": "4",
+    "chef_name": "Ravi Patel",
+    "chef_picture": "https://live.staticflickr.com/65535/52864361760_84f08d024a_o.jpg",
+    "bio": "Ravi is an Indian chef who specializes in vegetarian cuisine. He grew up in Mumbai and was exposed to a wide range of flavors and spices from a young age. Ravi's cooking is characterized by its use of fresh, seasonal ingredients, its emphasis on spices and herbs, and its inventive combinations of flavors. He is passionate about promoting the health benefits of a plant-based diet and has written several cookbooks on the subject.",
+    "likes": 650,
+    "recipes": 40,
+    "years_of_experience": 10
+  },
+  {
+    "id": "5",
+    "chef_name": "Sophie Martin",
+    "chef_picture": "https://live.staticflickr.com/65535/52864138429_20a81db0b1_o.jpg",
+    "bio": "Sophie is a Canadian chef who specializes in comfort food with a modern twist. She grew up in a small town in Ontario and was inspired by her grandmother's home-cooking to pursue a career in the culinary arts. Sophie's cooking is known for its warmth, its generosity, and its ability to evoke happy memories of childhood meals. She has published several cookbooks and has a popular food blog.",
+    "likes": 1800,
+    "recipes": 90,
+    "years_of_experience": 15
+  },
+  {
+    "id": "6",
+    "chef_name": "John Rayn",
+    "chef_picture": "https://live.staticflickr.com/65535/52863393362_4349371684_o.jpg",
+    "bio": "Sophie is a Canadian chef who specializes in comfort food with a modern twist. She grew up in a small town in Ontario and was inspired by her grandmother's home-cooking to pursue a career in the culinary arts. Sophie's cooking is known for its warmth, its generosity, and its ability to evoke happy memories of childhood meals. She has published several cookbooks and has a popular food blog.",
+    "likes": 1800,
+    "recipes": 90,
+    "years_of_experience": 15
+  }
+]
